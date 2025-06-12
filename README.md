@@ -20,7 +20,7 @@ It combines sales, customer, product, and location data to provide a 360° view 
 - A clean, professional layout suitable for presentations, executive reviews, and strategic planning.
 
 ---
-![Image1](https://github.com/bhaskarpal1707/Online-Retail-Insights-Dashboard/blob/main/Dashboard%20Preview.png)
+![Image1](https://github.com/bhaskarpal1707/Online-Retail-Insights-Dashboard/blob/main/Image1.jpg)
 
 ## 🚀 Project Overview
 
