@@ -82,7 +82,7 @@ The model integrates the following tables:
 **Insight**: Indicates the average revenue per transaction. A critical metric for pricing, promotions, and upselling strategies.
 
 ---
-
+![Image3](https://github.com/bhaskarpal1707/Online-Retail-Insights-Dashboard/blob/main/Image3.jpg)
 ## 📊 Visualizations
 
 ### 1. 🧾 Payment Type Distribution
@@ -139,13 +139,7 @@ The model integrates the following tables:
 
 ---
 
-## 📎 How to Use
-
-1. Open the `.pbix` file in Power BI Desktop.
-2. Use the slicers to filter by customer city and product category.
-3. Hover or click through visuals to drill down into specific trends or segments.
-4. Use KPIs on top to monitor performance at a glance.
-
+![Image4](https://github.com/bhaskarpal1707/Online-Retail-Insights-Dashboard/blob/main/Image4.jpg)
 ---
 
 ## 📌 Business Value
