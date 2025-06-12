@@ -1,6 +1,6 @@
 # 📊 Online Retail Insights Dashboard
 
-![Dashboard Preview]([./assets/dashboard-preview.png](https://github.com/bhaskarpal1707/Online-Retail-Insights-Dashboard/blob/main/Dashboard%20Preview.png?raw=true))
+![Dashboard Preview](https://github.com/bhaskarpal1707/Online-Retail-Insights-Dashboard/blob/main/Dashboard%20Preview.png)
 
 ---
 
